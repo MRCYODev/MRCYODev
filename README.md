@@ -18,7 +18,7 @@
 <a href="https://twitter.com/mrcyo_hd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrcyo_hd" height="30" width="40" /></a>
 <a href="https://fb.com/mrcyohd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrcyohd" height="30" width="40" /></a>
 <a href="https://instagram.com/mrcyo_hd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrcyo_hd" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc5qlbafbvb-vus1ea8uzbaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc5qlbafbvb-vus1ea8uzbaq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/MRCYO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc5qlbafbvb-vus1ea8uzbaq" height="30" width="40" /></a>
 <a href="https://discord.gg/96kEy8FJ6v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="96kEy8FJ6v" height="30" width="40" /></a>
 </p>
 
