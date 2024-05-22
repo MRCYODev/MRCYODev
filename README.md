@@ -41,9 +41,9 @@
         <img src="https://img.shields.io/badge/Wondershare%20Filmora-07273D?logo=wondersharefilmora&logoColor=fff&style=for-the-badge" alt="Wondershare Filmora Badge">
     </p>
     <h4>Photoshop</h4>
-    <p>I have been using Photoshop for over 4 years, initially for fun, creating logos for friends. Later, I expanded my skills to YouTube thumbnails and manipulation art.</p>
+    <p>I have been using Photoshop for over four years. Initially, I used it for fun, creating logos for friends and doing various enjoyable projects. Later, I started expanding my skills to include YouTube thumbnails and manipulation art.</p>
     <h4>Video Editing</h4>
-    <p>I have experience using Adobe Premiere Pro, Filmora, KineMaster, and CapCut.</p>
+    <p>I have experience using Adobe Premiere Pro, Filmora, KineMaster, and CapCut, but only to a limited extent.</p>
     <h3>Web Hosting</h3>
     <p>
     <img src="https://img.shields.io/badge/Namecheap-DE3723?logo=namecheap&logoColor=fff&style=for-the-badge" alt="Namecheap Badge">
