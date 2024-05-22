@@ -49,6 +49,7 @@
     <img src="https://img.shields.io/badge/Namecheap-DE3723?logo=namecheap&logoColor=fff&style=for-the-badge" alt="Namecheap Badge">
     <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=for-the-badge" alt="Cloudflare Badge">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" alt="GitHub Badge">
+    <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=for-the-badge" alt="WordPress Badge">
     </p>
     <h4>Cloudflare</h4>
     <p>I have some experience with Cloudflare hosting.</p>
@@ -56,3 +57,11 @@
     <p>I have hosted some sites on GitHub and other web services.</p>
     <h3>Learning Soon</h3>
 <p>Python, JavaScript Frameworks, CSS Frameworks, PHP, MySQL, and much more.</p>
+    <h4>Our Social<h4>
+    <p>
+    <a href="https://x.com/MRCYODev"><img src="https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge" alt="X Badge"></a>
+    <a href="https://discord.com/invite/rQ8vFShQgv"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge" alt="Discord Badge"></a>
+    <a href="https://www.instagram.com/mrcyodev/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge" alt="Instagram Badge"></a>
+    <a href="https://www.youtube.com/channel/UCBlQHgOoHxsE8io0d0QedRA"><img src="https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge" alt="YouTube Badge"></a>
+    <a href="https://www.behance.net/mrcyo"><img src="https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=fff&style=for-the-badge" alt="Behance Badge"></a>
+    </p>
