@@ -50,6 +50,7 @@
     <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=for-the-badge" alt="Cloudflare Badge">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" alt="GitHub Badge">
     <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=for-the-badge" alt="WordPress Badge">
+    <img src="https://img.shields.io/badge/Local-51BB7B?logo=local&logoColor=fff&style=for-the-badge" alt="Local Badge">
     </p>
     <h4>Cloudflare</h4>
     <p>I have some experience with Cloudflare hosting.</p>
